@@ -1,3 +1,5 @@
+///Just checking if JIRA actually owrks
+
 package college_project;
 import java.util.Scanner;
 public  class messregistration {
